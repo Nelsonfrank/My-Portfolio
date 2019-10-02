@@ -1,0 +1,12 @@
+.portfolio-context{
+    /*  */
+    color: rgba(219, 218, 216, 0.678);
+    text-align: center;
+}
+
+.portfolio-context > h2{
+    font-size: 2.5rem;
+}
+.portfolio-context >P{
+    font-size: 1.4rem;
+}

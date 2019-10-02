@@ -1,0 +1,24 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(76, 0, 130, 0.144);
+    color: rgba(255, 250, 205, 0.89);
+    margin-bottom: 1.5em;
+}
+header > h1{
+    font-size: 2rem;
+}
+header > ul{
+    display: flex;
+}
+
+header > ul> li{
+    list-style: none;
+    margin: 1em;
+    font-size: 1.15rem;
+}
+
+a{
+    text-decoration: none;
+    color: rgba(255, 250, 205, 0.89);
+}

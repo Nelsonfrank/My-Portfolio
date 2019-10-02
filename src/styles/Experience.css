@@ -1,0 +1,22 @@
+/* .experience{
+} */
+.experience-header{
+    font-size: 2rem;
+    font-family: 'source code pro';
+    margin: 0.5em;
+}
+
+.experience-items{
+    width: 90%;
+    margin: 2rem auto;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.158);
+    padding: 1em 0;
+}
+.experience-content{
+    width: 80%;
+    margin: 2em auto;
+    padding: 0 1em;
+    font-family: "source code pro";
+    font-size: 1.25rem;
+
+}

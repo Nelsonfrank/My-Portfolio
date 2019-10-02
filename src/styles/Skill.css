@@ -1,0 +1,16 @@
+.skills{
+    margin-top: 2rem;
+}
+.skill-header{
+    font-size:2rem;
+    font-family: 'source code pro';
+    margin-bottom: 1em;
+    margin-left: 0.5em;
+}
+.list-items{
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: 0 auto;
+    padding: 1.25em;
+}

@@ -1,0 +1,11 @@
+.work-header{
+    font-family: 'source code pro';
+    font-size: 2rem;
+    margin-bottom: 1em;
+    margin-left: 0.5em;
+}
+.work-container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
