@@ -1,11 +1,10 @@
 import React from 'react'
-import Navigation from '../../components/navigation'
-import Introduction from './components/introduction/Introduction'
-import Layout from '../../components/Layout'
-import Work from '../Work'
-import Experience from '../Experience'
-import './Home.css'
-import Skill from '../Skill'
+import Navigation from '../components/navigation'
+import Layout from '../components/Layout'
+import Work from './Work'
+import Experience from './Experience'
+import '../styles/Home.css'
+import Skill from './Skill'
 
 const Home = () => {
     return ( 
@@ -13,7 +12,10 @@ const Home = () => {
            <div className={`bg-wallpaper`}>
           <Navigation />
           <Layout>
-             <Introduction />
+            <div className={`portfolio-context`}>
+                <h2>Howdy, My Name is Nelson Frank</h2>
+                <p>Front-End Developer</p>
+            </div>
           </Layout>
            </div>
            <div className="work">

@@ -1,9 +1,0 @@
-section{
-    height:800px;
-}
-.bg-wallpaper{
-    background: url('../../images/desktop-wall.jpg') center center fixed;
-    background-size: cover;
-    height: 100%;
-    overflow: hidden;
-}
